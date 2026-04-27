@@ -1,0 +1,14 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data
+data/raw/
+data/interim/
+
+# Environment
+.env
+.venv/
