@@ -1,0 +1,13 @@
+,train_dtype,train_nunique,train_missing_count,train_missing_ratio
+PassengerId,int64,891,0,0.0
+Survived,int64,2,0,0.0
+Pclass,int64,3,0,0.0
+Name,object,891,0,0.0
+Sex,object,2,0,0.0
+Age,float64,89,177,19.865319865319865
+SibSp,int64,7,0,0.0
+Parch,int64,7,0,0.0
+Ticket,object,681,0,0.0
+Fare,float64,248,0,0.0
+Cabin,object,148,687,77.10437710437711
+Embarked,object,4,2,0.22446689113355783
