@@ -172,7 +172,8 @@ titanic-project/
 │ └─ 03_model/
 │
 ├─ reports/
-│ └─ summary.ipynb
+│ ├─ summary.ipynb
+│ └─ titanic_presentation.pptx
 │
 └─ README.md
 ```
